@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\jaggedArray\jaggedArray\bin\Debug\jaggedArray.exe.config
+C:\Users\asus\source\repos\jaggedArray\jaggedArray\bin\Debug\jaggedArray.exe
+C:\Users\asus\source\repos\jaggedArray\jaggedArray\bin\Debug\jaggedArray.pdb
+C:\Users\asus\source\repos\jaggedArray\jaggedArray\obj\Debug\jaggedArray.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\jaggedArray\jaggedArray\obj\Debug\jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\jaggedArray\jaggedArray\obj\Debug\jaggedArray.exe
+C:\Users\asus\source\repos\jaggedArray\jaggedArray\obj\Debug\jaggedArray.pdb
