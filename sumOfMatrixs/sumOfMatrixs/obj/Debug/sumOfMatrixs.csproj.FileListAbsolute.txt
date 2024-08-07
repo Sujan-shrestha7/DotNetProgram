@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\sumOfMatrixs\sumOfMatrixs\bin\Debug\sumOfMatrixs.exe.config
+C:\Users\asus\source\repos\sumOfMatrixs\sumOfMatrixs\bin\Debug\sumOfMatrixs.exe
+C:\Users\asus\source\repos\sumOfMatrixs\sumOfMatrixs\bin\Debug\sumOfMatrixs.pdb
+C:\Users\asus\source\repos\sumOfMatrixs\sumOfMatrixs\obj\Debug\sumOfMatrixs.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\sumOfMatrixs\sumOfMatrixs\obj\Debug\sumOfMatrixs.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\sumOfMatrixs\sumOfMatrixs\obj\Debug\sumOfMatrixs.exe
+C:\Users\asus\source\repos\sumOfMatrixs\sumOfMatrixs\obj\Debug\sumOfMatrixs.pdb
