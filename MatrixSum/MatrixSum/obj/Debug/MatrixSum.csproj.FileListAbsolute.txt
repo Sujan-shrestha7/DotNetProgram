@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\MatrixSum\MatrixSum\bin\Debug\MatrixSum.exe.config
+C:\Users\asus\source\repos\MatrixSum\MatrixSum\bin\Debug\MatrixSum.exe
+C:\Users\asus\source\repos\MatrixSum\MatrixSum\bin\Debug\MatrixSum.pdb
+C:\Users\asus\source\repos\MatrixSum\MatrixSum\obj\Debug\MatrixSum.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\MatrixSum\MatrixSum\obj\Debug\MatrixSum.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MatrixSum\MatrixSum\obj\Debug\MatrixSum.exe
+C:\Users\asus\source\repos\MatrixSum\MatrixSum\obj\Debug\MatrixSum.pdb
