@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\AreaOf Rectangle\AreaOf Rectangle\bin\Debug\AreaOf Rectangle.exe.config
+C:\Users\asus\source\repos\AreaOf Rectangle\AreaOf Rectangle\bin\Debug\AreaOf Rectangle.exe
+C:\Users\asus\source\repos\AreaOf Rectangle\AreaOf Rectangle\bin\Debug\AreaOf Rectangle.pdb
+C:\Users\asus\source\repos\AreaOf Rectangle\AreaOf Rectangle\obj\Debug\AreaOf Rectangle.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\AreaOf Rectangle\AreaOf Rectangle\obj\Debug\AreaOf Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\AreaOf Rectangle\AreaOf Rectangle\obj\Debug\AreaOf Rectangle.exe
+C:\Users\asus\source\repos\AreaOf Rectangle\AreaOf Rectangle\obj\Debug\AreaOf Rectangle.pdb
