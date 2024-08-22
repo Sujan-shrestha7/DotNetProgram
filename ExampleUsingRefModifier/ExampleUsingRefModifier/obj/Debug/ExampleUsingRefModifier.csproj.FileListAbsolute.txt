@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ExampleUsingRefModifier\ExampleUsingRefModifier\bin\Debug\ExampleUsingRefModifier.exe.config
+C:\Users\asus\source\repos\ExampleUsingRefModifier\ExampleUsingRefModifier\bin\Debug\ExampleUsingRefModifier.exe
+C:\Users\asus\source\repos\ExampleUsingRefModifier\ExampleUsingRefModifier\bin\Debug\ExampleUsingRefModifier.pdb
+C:\Users\asus\source\repos\ExampleUsingRefModifier\ExampleUsingRefModifier\obj\Debug\ExampleUsingRefModifier.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ExampleUsingRefModifier\ExampleUsingRefModifier\obj\Debug\ExampleUsingRefModifier.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ExampleUsingRefModifier\ExampleUsingRefModifier\obj\Debug\ExampleUsingRefModifier.exe
+C:\Users\asus\source\repos\ExampleUsingRefModifier\ExampleUsingRefModifier\obj\Debug\ExampleUsingRefModifier.pdb
