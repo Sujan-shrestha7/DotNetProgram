@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.exe.config
+C:\Users\asus\source\repos\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.exe
+C:\Users\asus\source\repos\SingleInheritance\SingleInheritance\bin\Debug\SingleInheritance.pdb
+C:\Users\asus\source\repos\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.exe
+C:\Users\asus\source\repos\SingleInheritance\SingleInheritance\obj\Debug\SingleInheritance.pdb
