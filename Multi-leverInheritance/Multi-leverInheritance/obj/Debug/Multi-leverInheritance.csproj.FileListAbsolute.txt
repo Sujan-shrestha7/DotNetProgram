@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Multi-leverInheritance\Multi-leverInheritance\bin\Debug\Multi-leverInheritance.exe.config
+C:\Users\asus\source\repos\Multi-leverInheritance\Multi-leverInheritance\bin\Debug\Multi-leverInheritance.exe
+C:\Users\asus\source\repos\Multi-leverInheritance\Multi-leverInheritance\bin\Debug\Multi-leverInheritance.pdb
+C:\Users\asus\source\repos\Multi-leverInheritance\Multi-leverInheritance\obj\Debug\Multi-leverInheritance.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Multi-leverInheritance\Multi-leverInheritance\obj\Debug\Multi-leverInheritance.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Multi-leverInheritance\Multi-leverInheritance\obj\Debug\Multi-leverInheritance.exe
+C:\Users\asus\source\repos\Multi-leverInheritance\Multi-leverInheritance\obj\Debug\Multi-leverInheritance.pdb
