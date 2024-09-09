@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35111.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadingDistanceMeasure", "OperatorOverloadingDistanceMeasure\OperatorOverloadingDistanceMeasure.csproj", "{78BA8DC6-67E4-455E-AECC-1CDCA1F03708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78BA8DC6-67E4-455E-AECC-1CDCA1F03708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BA8DC6-67E4-455E-AECC-1CDCA1F03708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BA8DC6-67E4-455E-AECC-1CDCA1F03708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BA8DC6-67E4-455E-AECC-1CDCA1F03708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69A1B55B-2E78-4548-9ECF-6A65AE5A6E26}
+	EndGlobalSection
+EndGlobal
