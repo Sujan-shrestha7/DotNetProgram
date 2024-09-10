@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Operator OverloadingTime\Operator OverloadingTime\obj\Debug\Operator OverloadingTime.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Operator OverloadingTime\Operator OverloadingTime\obj\Debug\Operator OverloadingTime.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Operator OverloadingTime\Operator OverloadingTime\bin\Debug\Operator OverloadingTime.exe.config
+C:\Users\asus\source\repos\Operator OverloadingTime\Operator OverloadingTime\bin\Debug\Operator OverloadingTime.exe
+C:\Users\asus\source\repos\Operator OverloadingTime\Operator OverloadingTime\bin\Debug\Operator OverloadingTime.pdb
+C:\Users\asus\source\repos\Operator OverloadingTime\Operator OverloadingTime\obj\Debug\Operator OverloadingTime.exe
+C:\Users\asus\source\repos\Operator OverloadingTime\Operator OverloadingTime\obj\Debug\Operator OverloadingTime.pdb
