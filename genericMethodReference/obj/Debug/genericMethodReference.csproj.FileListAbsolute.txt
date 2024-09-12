@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\genericMethodReference\genericMethodReference\bin\Debug\genericMethodReference.exe.config
+C:\Users\asus\source\repos\genericMethodReference\genericMethodReference\bin\Debug\genericMethodReference.exe
+C:\Users\asus\source\repos\genericMethodReference\genericMethodReference\bin\Debug\genericMethodReference.pdb
+C:\Users\asus\source\repos\genericMethodReference\genericMethodReference\obj\Debug\genericMethodReference.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\genericMethodReference\genericMethodReference\obj\Debug\genericMethodReference.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\genericMethodReference\genericMethodReference\obj\Debug\genericMethodReference.exe
+C:\Users\asus\source\repos\genericMethodReference\genericMethodReference\obj\Debug\genericMethodReference.pdb
