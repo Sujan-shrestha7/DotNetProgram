@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\DeligateExample\DeligateExample\bin\Debug\DeligateExample.exe.config
+C:\Users\asus\source\repos\DeligateExample\DeligateExample\bin\Debug\DeligateExample.exe
+C:\Users\asus\source\repos\DeligateExample\DeligateExample\bin\Debug\DeligateExample.pdb
+C:\Users\asus\source\repos\DeligateExample\DeligateExample\obj\Debug\DeligateExample.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\DeligateExample\DeligateExample\obj\Debug\DeligateExample.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DeligateExample\DeligateExample\obj\Debug\DeligateExample.exe
+C:\Users\asus\source\repos\DeligateExample\DeligateExample\obj\Debug\DeligateExample.pdb
