@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\stdDetailsusingConstructor\stdDetailsusingConstructor\bin\Debug\stdDetailsusingConstructor.exe.config
+C:\Users\asus\source\repos\stdDetailsusingConstructor\stdDetailsusingConstructor\bin\Debug\stdDetailsusingConstructor.exe
+C:\Users\asus\source\repos\stdDetailsusingConstructor\stdDetailsusingConstructor\bin\Debug\stdDetailsusingConstructor.pdb
+C:\Users\asus\source\repos\stdDetailsusingConstructor\stdDetailsusingConstructor\obj\Debug\stdDetailsusingConstructor.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\stdDetailsusingConstructor\stdDetailsusingConstructor\obj\Debug\stdDetailsusingConstructor.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\stdDetailsusingConstructor\stdDetailsusingConstructor\obj\Debug\stdDetailsusingConstructor.exe
+C:\Users\asus\source\repos\stdDetailsusingConstructor\stdDetailsusingConstructor\obj\Debug\stdDetailsusingConstructor.pdb
