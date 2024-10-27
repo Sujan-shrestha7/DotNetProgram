@@ -71,6 +71,7 @@ namespace WindowsFormsApp2
                             cmd.Parameters.AddWithValue("@Contact", userphone.Text.Trim());
                             cmd.ExecuteNonQuery();
                             MessageBox.Show("Data updated successfully");
+                            ClearInputs();
                             LoadData();
                         }
                         catch (Exception ex)
@@ -103,6 +104,7 @@ namespace WindowsFormsApp2
                     cmd.Parameters.AddWithValue("@id", userid.Text.Trim());
                     cmd.ExecuteNonQuery();
                     MessageBox.Show("Data deleted successfully");
+                    ClearInputs();
                     LoadData();
                 }
                 catch (Exception ex)
